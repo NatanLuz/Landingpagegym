@@ -1,4 +1,4 @@
-                                                                  Landing Page GYM
+  Landing Page GYM
 Este projeto é uma página de aterrissagem (Landing Page) para uma academia fictícia chamada "Academia Infinity", projetada com foco em captar novos alunos e oferecer a possibilidade de aulas experimentais ou contato com um personal trainer.
 
 🔥 Introdução
