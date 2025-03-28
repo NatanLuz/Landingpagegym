@@ -40,5 +40,7 @@ Basta substituir a URL da imagem no arquivo style.css na seção body:
 background: linear-gradient(rgba(0, 128, 0, 0.8), rgba(34, 139, 34, 1)), url('sua-imagem-aqui.jpg');
 
 
+Para suporte, mande um email para natandaluz01@gmail.com.
+Pode modificar os links e detalhes conforme suas preferências! Se precisar de mais ajustes, me avise!
 
 
