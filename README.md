@@ -2,10 +2,9 @@ Landing Page GYM
 Este projeto é uma página de aterrissagem (Landing Page) para uma academia fictícia chamada "Academia Infinity", projetada com foco em captar novos alunos e oferecer a possibilidade de aulas experimentais ou contato com um personal trainer.
 
 🔥 Introdução
-A Landing Page GYM é um projeto criado para demonstrar habilidades em HTML, CSS e JavaScript, utilizando uma interface atraente e moderna. O principal objetivo é exibir os serviços da academia e motivar os visitantes a se inscreverem para uma aula experimental ou contatar um personal trainer.
+A Landing Page GYM é um projeto criado para demonstrar habilidades em HTML e CSS, utilizando uma interface atraente e moderna. O principal objetivo é exibir os serviços da academia e motivar os visitantes a se inscreverem para uma aula experimental ou contatar um personal trainer.
 
 ⚙️ Pré-requisitos
-
 Editor de código como VSCode.
 
 Navegador moderno (Google Chrome, Firefox, etc.).
