@@ -37,7 +37,7 @@ Se quiser realizar testes locais ou fazer modificações no layout, basta abrir 
 
 👷 **Autores**
 
-- Natan Da Luz - Desenvolvimento Frontend - [@archivesysl](https://github.com/archivesysl)
+- Natan Da Luz
 
 💭 **FAQ**
 
