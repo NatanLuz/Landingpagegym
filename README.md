@@ -1,56 +1,44 @@
-# Landing Page GYM
+## Landing Page GYM
 
-Este projeto é uma página de aterrissagem (Landing Page) para uma academia fictícia chamada "Academia Infinity", projetada com foco em captar novos alunos e oferecer a possibilidade de aulas experimentais ou contato com um personal trainer... projeto criado e desenvolvido como amostra para futuras entregas (freelance)
+This project is a landing page for a fictional gym called "Academia Infinity", designed with a focus on attracting new members and offering trial classes or contact with a personal trainer. This project was created and developed as a sample for future freelance deliveries.
 
-VISUALIZE AQUI: https://imgur.com/a/NPkX6Dw
+VIEW HERE: https://imgur.com/a/NPkX6Dw
 
- **Introdução**
+Introduction
+Landing Page GYM is a project created to showcase skills in HTML and CSS, using a modern and attractive interface. The main goal is to display the gym's services and encourage visitors to sign up for a trial class or get in touch with a personal trainer.
 
-A Landing Page GYM é um projeto criado para demonstrar habilidades em HTML e CSS, utilizando uma interface atraente e moderna. O principal objetivo é exibir os serviços da academia e motivar os visitantes a se inscreverem para uma aula experimental ou contatar um personal trainer.
+## Prerequisites
 
-⚙️ **Pré-requisitos**
+A code editor like VSCode
+A modern browser (Google Chrome, Firefox, etc.)
+style.css file in the same folder as index.html
+Internet connection for loading external libraries
 
-- Editor de código como VSCode.
-- Navegador moderno (Google Chrome, Firefox, etc.).
-- Ter o arquivo `style.css` na mesma pasta que o arquivo `index.html`.
-- Conexão à internet para o uso das bibliotecas externas.
+ Installation Guide
 
-🔨 **Guia de Instalação**
+Clone this repository or download the project:
 
-1. Clone este repositório ou faça o download do projeto.
-   ```bash
-   git clone https://github.com/seuusuario/landing-page-gym.git
-   ```
+git clone https://github.com/seuusuario/landing-page-gym.git
 
-2. Abra o arquivo `index.html` no seu navegador preferido.
+Open the index.html file in your preferred browser.
+Make sure the style.css file is in the same folder as index.html.
 
-3. Certifique-se de que o arquivo `style.css` está na mesma pasta do arquivo `index.html`.
+Running Tests
 
-🛠️ **Executando os testes**
+If you want to run local tests or make changes to the layout, simply open the file in your preferred text editor and modify the HTML or CSS code. Use tools like Chrome DevTools to inspect and test the responsive design.
 
-Se quiser realizar testes locais ou fazer modificações no layout, basta abrir o arquivo em seu editor de texto preferido e alterar o código CSS ou HTML. Use ferramentas como o "DevTools" do Chrome para inspecionar e testar a página responsiva.
+Technologies Used
+HTML5
+CSS3
+Font Awesome (for icons)
+Google Fonts (for custom fonts)
 
-📦 **Tecnologias Usadas**
+## FAQ
 
-- HTML5
-- CSS3
-- Font Awesome (para ícones)
-- Google Fonts (para fontes personalizadas)
+Can I customize the text and layout?
+Yes! Feel free to modify and personalize the project according to your needs.
 
-👷 **Autores**
+How can I change the background image?
+Just replace the image URL in the style.css file under the body section:
 
-- Natan Da Luz
-
-💭 **FAQ**
-
-1. **Posso personalizar os textos e o layout?**
-   Sim! Sinta-se à vontade para modificar e personalizar o projeto de acordo com suas necessidades.
-
-2. **Como posso mudar a imagem de fundo?**
-   Basta substituir a URL da imagem no arquivo `style.css` na seção `body`:
-   ```css
-   background: linear-gradient(rgba(0, 128, 0, 0.8), rgba(34, 139, 34, 1)), url('sua-imagem-aqui.jpg');
-   ```
-
-Para suporte, mande um email para [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com).
-
+background: linear-gradient(rgba(0, 128, 0, 0.8), rgba(34, 139, 34, 1)), url('your-image-here.jpg');
